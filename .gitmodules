@@ -1,0 +1,9 @@
+[submodule "infra"]
+	path = infra
+	url = git@github.com:wbreza/azd-infra.git
+[submodule "src/api"]
+	path = src/api
+	url = git@github.com:wbreza/azd-api.git
+[submodule "src/web"]
+	path = src/web
+	url = git@github.com:wbreza/azd-web.git
